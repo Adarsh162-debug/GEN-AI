@@ -1,0 +1,1 @@
+hello my name is amit and now this content will be wriitrn on the destination file
